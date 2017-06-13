@@ -30,3 +30,7 @@ Enjoy!
 ![My image](https://raw.githubusercontent.com/iancanada/McFIFOdisplay/master/Pictures/McFIFOdisplay2.JPG)
 
 ![My image](https://raw.githubusercontent.com/iancanada/McFIFOdisplay/master/Pictures/McFIFOdisplay1.jpg)
+
+![My image](https://raw.githubusercontent.com/iancanada/McFIFOdisplay/master/Pictures/McFIFOdisplay3.jpg)
+
+![My image](https://raw.githubusercontent.com/iancanada/McFIFOdisplay/master/Pictures/McFIFOdisplay5.jpg)

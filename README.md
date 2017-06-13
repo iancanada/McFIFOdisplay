@@ -26,4 +26,4 @@ GND  --- GND
 Clone or download this project, upload target code into Arduino board
 Enjoy!
 
-![My image](iancanada.github.com/McFIFOdisplay/Pictures/McFIFOdisplay2.JPG)
+![My image](https://raw.githubusercontent.com/iancanada/McFIFOdisplay/master/Pictures/McFIFOdisplay1.jpg)

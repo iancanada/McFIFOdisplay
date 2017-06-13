@@ -1,5 +1,4 @@
-/**
- * @file ReadMe.txt
+/* @file ReadMe.txt
  * Project: Open source Arduino based McFIFO display
  * Show I2S/DSD music information and McFIFO status
  * Copyright (C) Ian Jin

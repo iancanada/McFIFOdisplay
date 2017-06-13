@@ -9,7 +9,8 @@
 
 Hardware:
 1. Arduino board
-2. Any LCD shield for Arduion such as DRF0009
+2. Any LCD shield for Arduino, such as DRF0009
+
 
 Cable connections between McFIFO and Arduino board:
 

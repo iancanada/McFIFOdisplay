@@ -11,11 +11,13 @@ Hardware:
 1. Arduino board
 2. Any LCD shield for Arduion such as DRF0009
 
-Cable connections between McFIFO and Arduino board 
+Cable connections between McFIFO and Arduino board:
+
 McFIFO    Arduino
 Txd       RX
 +5V       +5V
 GND       GND
+
 
 Clone or download this project, upload target code into Arduino board
 Enjoy!

@@ -13,13 +13,13 @@ Hardware:
 
 Cable connections between McFIFO and Arduino board:
 
-McFIFO    Arduino
+McFIFO --- Arduino
 
-Txd       RX
+Txd --- RX
 
-+5V       +5V
++5V --- +5V
 
-GND       GND
+GND  --- GND
 
 
 Clone or download this project, upload target code into Arduino board

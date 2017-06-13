@@ -27,6 +27,6 @@ Clone or download this project, upload target code into Arduino board
 Enjoy!
 
 
-![My image](https://raw.githubusercontent.com/iancanada/McFIFOdisplay/master/Pictures/McFIFOdisplay2.jpg)
+![My image](https://raw.githubusercontent.com/iancanada/McFIFOdisplay/master/Pictures/McFIFOdisplay2.JPG)
 
 ![My image](https://raw.githubusercontent.com/iancanada/McFIFOdisplay/master/Pictures/McFIFOdisplay1.jpg)
